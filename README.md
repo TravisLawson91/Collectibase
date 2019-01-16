@@ -1,4 +1,6 @@
-# Collectibase
+# Collectibase</br></br>
+\*\*\*Upload to personal account from https://github.com/UTSA-CS-3443/Collectibase</br>
+This was a group project for Fall 2017 Application Programming course at UTSA***</br></br>
 Welcome to Collectibase!
 
 To use this program just download or clone the repository and import into the Java IDE of your choice!
